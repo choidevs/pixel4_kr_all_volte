@@ -1,6 +1,7 @@
 # pixel4_kr_all_volte
 A Magisk module to Activate support for Korean carriers and VoLTE for pixel 4.
-NOTE : Tested on Android 10 for SKTelecom only.
+
+NOTE:Tested on Android 10 for SKTelecom only.
 
 
 
